@@ -1,0 +1,2 @@
+﻿audio.obj : warning LNK4075: 忽略 '/EDITANDCONTINUE'，由於 '/SAFESEH' 規格
+  game.vcxproj -> C:\Users\zx521\OneDrive\桌面\OB實習\.\Debug\game.exe
